@@ -32,7 +32,7 @@ Manifest.toml
 *.pdf
 run
 
-*.vscode
+.vscode
 *.pb.gz
 .history
 
